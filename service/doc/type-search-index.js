@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"blog.api.service.controllers","l":"PostController"},{"p":"blog.api.service.controllers","l":"UserController"}];updateSearchResults();
